@@ -1,0 +1,22 @@
+{
+    "UserData":[
+        {
+            "username":"neha",
+            "email":"nehadeore@gmail.com",
+            "password":"neha@123"
+
+        },
+        {
+            "username":"anushka",
+            "email":"anushka@gmail.com",
+            "password":"anushka@123"
+
+        },
+        {
+            "username":"jhon",
+            "email":"jhon@gmail.com",
+            "password":"jhon@123"
+
+        }
+    ]
+}
