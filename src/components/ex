@@ -1,0 +1,24 @@
+https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
+
+
+https://stackoverflow.com/questions/50696857/append-array-of-values-to-the-current-array-in-a-state-in-react-js
+
+1. you need to store all the taske in state variable instead on localstorage
+2. you need to remove all window.location.replace from app
+3. display data from state only
+
+https://reactjs.org/docs/components-and-props.html
+
+Even if you use localstorage, 
+You need to fetch data from local storage on component load and store it in state variable
+
+https://youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK        ///////////redux
+
+https://www.youtube.com/watch?v=PoRJizFvM7s ////aync await
+
+
+PureComponents in react
+React.memo in functional components
+
+How to optimize render cycles ^^

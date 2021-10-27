@@ -1,22 +1,60 @@
 {
-    "UserData":[
-        {
-            "username":"neha",
-            "email":"nehadeore@gmail.com",
-            "password":"neha@123"
-
-        },
-        {
-            "username":"anushka",
-            "email":"anushka@gmail.com",
-            "password":"anushka@123"
-
-        },
-        {
-            "username":"jhon",
-            "email":"jhon@gmail.com",
-            "password":"jhon@123"
-
-        }
-    ]
+  "UserData": [
+    {
+      "fname": "neha",
+      "lname": "deore",
+      "uname": "neha",
+      "email": "neha@gmail.com",
+      "password": "neha@123",
+      "id": 1
+    },
+    {
+      "fname": "komal",
+      "lname": "verma",
+      "uname": "komal",
+      "email": "komal@gmail.com",
+      "password": "Komal@123",
+      "id": 2
+    },
+    {
+      "fname": "anush",
+      "lname": "hfh",
+      "uname": "anushh",
+      "email": "anush@gmail.com",
+      "password": "Anush@123",
+      "id": 3
+    },
+    {
+      "fname": "felix",
+      "lname": "methew",
+      "uname": "felixm",
+      "email": "felix@gmail.com",
+      "password": "Felix@123",
+      "id": 4
+    },
+    {
+      "fname": "raj",
+      "lname": "kale",
+      "uname": "rajesh",
+      "email": "rajesh@gmail.com",
+      "password": "Rajesh@123",
+      "id": 5
+    },
+    {
+      "fname": "sunita",
+      "lname": "verma",
+      "uname": "sunita",
+      "email": "sunita@gmail.com",
+      "password": "Sunita@123",
+      "id": 6
+    },
+    {
+      "fname": "Kartik",
+      "lname": "Talari",
+      "uname": "Kartikeya",
+      "email": "kartik@gmail.com",
+      "password": "Kartik@123",
+      "id": 7
+    }
+  ]
 }
